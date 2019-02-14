@@ -1,0 +1,26 @@
+.font {
+  font-size: 18px;
+  text-align: center;
+  padding: 5px;
+}
+
+li{
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.close-button {
+  background-color: rgb(218,76,41);
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 25px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top:49px;
+}

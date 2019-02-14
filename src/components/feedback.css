@@ -1,0 +1,23 @@
+
+div {
+  display:block;
+  width: 75%;
+  height: 30px;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom: 40px;
+}
+
+
+.feedback {
+  text-align: center;
+  background-color: rgb(218,76,41);
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 30px;
+
+}

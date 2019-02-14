@@ -1,0 +1,47 @@
+.game-data {
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+}
+
+.guess-number {
+  padding: 5px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.previous-attempts {
+  background-color: rgb(112,161,206);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 50px;
+  padding-top: 10px;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  width: 300px;
+  height: 50px;
+  &::-webkit-scrollbar {
+  display: none;
+  }
+}
+
+.attempt {
+  font-size: 20px;
+  background-color: rgb(218,76,41);
+  width: 10%;
+  height: 25px;
+  border-radius: 7px;
+  list-style: none;
+  display: inline-block;
+  margin: 2px;
+
+}

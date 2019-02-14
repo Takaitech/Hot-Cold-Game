@@ -1,0 +1,38 @@
+.logo{
+  letter-spacing: 5px;
+  text-align: center;
+  display: block;
+  color: white;
+  font-size: 50px;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+nav-bar-list{
+  color: white;
+}
+
+.info-link {
+  list-style: none;
+  letter-spacing: 5px;
+  font-weight:bold;
+  color: white;
+  font-size: 40px;
+  position: fixed;
+  top:30px;
+  left: 30px;
+  text-decoration: none;
+}
+
+.new-game-link {
+  list-style: none;
+  letter-spacing: 5px;
+  font-weight: bold;
+  color: white;
+  font-size: 40px;
+  position: fixed;
+  top: 30px;
+  right: 30px;
+  text-decoration: none;
+}
